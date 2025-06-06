@@ -32,10 +32,10 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "tipaxbam2025"         # 用户名
-UUID = "79420d97-6f83-40d6-b957-900c1742e9ae"                     # UUID，留空则自动生成
+UUID = "72e814b1-8b80-4e41-9e8f-11d99acef44c"                     # UUID，留空则自动生成
 PORT = 46777                   # Vmess端口，留空或0则自动生成
-DOMAIN = "royabax.ir"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiYzYxNjFlNzlkM2EyYzJiM2QzMGQxZGNkMWQ0MjllNjQiLCJ0IjoiOGMxMzk3YjUtMTYyOS00MWRkLTllOTYtZjY0ZjlkOGVjZjQ2IiwicyI6IllqaG1NMlkxWldVdFlUZ3pPQzAwTWpCaExUazJZbVF0TURObVpHRmtOalJsWTJGbCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "tanha.royabax.ir"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiYzYxNjFlNzlkM2EyYzJiM2QzMGQxZGNkMWQ0MjllNjQiLCJ0IjoiMzE5NDE5N2UtYmRmMi00ZDg3LTllZDAtODFiZTY1ZjQxNzIzIiwicyI6Ik5URTRNalU1TnpJdE16VTRNaTAwTjJWbExXRTFZek10WldGa05HUXhaRFJsTUdVMiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
